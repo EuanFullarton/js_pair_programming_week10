@@ -1,0 +1,14 @@
+{
+  "name": "pair_programming_lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "item_specs.js",
+  "scripts": {
+    "test": "mocha specs"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^3.3.0"
+  }
+}
